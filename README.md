@@ -1,7 +1,4 @@
-
-"""
-README
-
+ 
 # ChatGPT CLI Automation (`chat.py`)
 
 This script provides a command-line interface (CLI) to interact with ChatGPT (https://chatgpt.com) using Selenium WebDriver automation. It launches a browser, handles login modals, sends messages, and prints responses in the terminal.
@@ -59,6 +56,5 @@ Type your message at the prompt and press Enter. Type `exit` or `quit` to stop.
 ## License
 
 For personal and educational use only. Not affiliated with OpenAI or ChatGPT.
-
-"""
+ 
  
